@@ -1,5 +1,7 @@
 # rest-boilerplate-refined-go
 
+![CI](https://github.com/tenSunFree/rest-boilerplate-refined-go/actions/workflows/ci.yml/badge.svg)
+
 ---
 
 ## Introduction
