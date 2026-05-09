@@ -1,4 +1,4 @@
-# go-rest-boilerplate-refined
+# rest-boilerplate-refined-go
 
 ---
 
