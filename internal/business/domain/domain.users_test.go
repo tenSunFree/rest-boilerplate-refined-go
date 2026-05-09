@@ -52,7 +52,7 @@ func TestNewUser(t *testing.T) {
 
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			u, err := domain.NewUser(tt.username, tt.email, tt.password, 2, tt.bcryptCost)
+			u, err := domain.NewUser(tt.username, "", tt.email, "", "", tt.password, 2, tt.bcryptCost)
 
 			if tt.wantErr != nil {
 				require.Error(t, err)
