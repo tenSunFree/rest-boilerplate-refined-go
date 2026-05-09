@@ -59,7 +59,7 @@ jobs:
       - name: Static analysis (golangci-lint)
         uses: golangci/golangci-lint-action@v6
         with:
-          version: v1.64.8
+          version: latest
 
       # Unit tests: Run quick mock-based tests without `-tags=integration`
       # `-race` → Detect data races (a powerful feature specific to Go)
