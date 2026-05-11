@@ -8,6 +8,9 @@
 
 If you're interested in Go (Gin / PostgreSQL / sqlx / Redis / JWT / Clean Architecture / Docker), feel free to take a look.
 
+go-rest-boilerplate  
+https://github.com/snykk/go-rest-boilerplate
+
 This project is for learning and technical practice.
 
 ---
